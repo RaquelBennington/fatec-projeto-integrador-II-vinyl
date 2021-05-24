@@ -7,22 +7,22 @@
         >
           <nuxt-link
             to="/sobre"
-            class="text-base font-medium text-white hover:text-blue-500"
+            class="text-base font-medium text-white hover:text-gray-500"
             >Sobre</nuxt-link
           >
           <nuxt-link
             to="/cultura"
-            class="text-base font-medium text-white hover:text-blue-500"
+            class="text-base font-medium text-white hover:text-gray-500"
             >Disco é Cultura</nuxt-link
           >
           <nuxt-link
             to="/contato"
-            class="text-base font-medium text-white hover:text-blue-500"
+            class="text-base font-medium text-white hover:text-gray-500"
             >Contato</nuxt-link
           >
           <nuxt-link
             to="/login"
-            class="text-base font-medium text-white hover:text-blue-500"
+            class="text-base font-medium text-white hover:text-gray-500"
             >Login</nuxt-link
           >
         </div>

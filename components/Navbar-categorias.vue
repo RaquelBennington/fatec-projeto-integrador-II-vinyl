@@ -5,33 +5,33 @@
     >
       <nuxt-link
         to="/sobre"
-        class="text-base font-medium text-white hover:text-blue-500"
+        class="text-base font-medium text-white hover:text-gray-500"
         >Discos</nuxt-link
       >
       <nuxt-link
         to="/artistas"
-        class="text-base font-medium text-white hover:text-blue-500"
+        class="text-base font-medium text-white hover:text-gray-500"
         >Brasilidades</nuxt-link
       >
       <nuxt-link
         to="/artistas"
-        class="text-base font-medium text-white hover:text-blue-500"
-        >Soul</nuxt-link
-      >
-      <nuxt-link
-        to="/discos"
-        class="text-base font-medium text-white hover:text-blue-500"
+        class="text-base font-medium text-white hover:text-gray-500"
         >Funk</nuxt-link
       >
       <nuxt-link
-        to="/contato"
-        class="text-base font-medium text-white hover:text-blue-500"
+        to="/discos"
+        class="text-base font-medium text-white hover:text-gray-500"
         >Jazz</nuxt-link
       >
       <nuxt-link
         to="/contato"
-        class="text-base font-medium text-white hover:text-blue-500"
-        >Roupas e Acessórios</nuxt-link
+        class="text-base font-medium text-white hover:text-gray-500"
+        >Rock</nuxt-link
+      >
+      <nuxt-link
+        to="/contato"
+        class="text-base font-medium text-white hover:text-gray-500"
+        >Soul</nuxt-link
       >
     </div>
   </div>

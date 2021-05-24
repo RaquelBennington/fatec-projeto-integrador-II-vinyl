@@ -34,11 +34,11 @@
         </div>
  
         <nav class="hidden md:flex space-x-10 text-white bg-black"> 
-          <nuxt-link to="/sobre" class="text-base font-medium text-white hover:text-blue-500">Sobre</nuxt-link>
-          <nuxt-link to="/cultura" class="text-base font-medium text-white hover:text-blue-500">Disco é cultura</nuxt-link>
-          <nuxt-link to="/contato" class="text-base font-medium text-white hover:text-blue-500">Contato</nuxt-link> 
-          <nuxt-link to="/login" class="text-base font-medium text-white hover:text-blue-500"><Icon-login/></nuxt-link> 
-          <nuxt-link to="/carrinho" class="text-base font-medium text-white hover:text-blue-500"><Icon-shop/></nuxt-link>       
+          <nuxt-link to="/sobre" class="text-base font-medium text-white hover:text-gray-500">Sobre</nuxt-link>
+          <nuxt-link to="/cultura" class="text-base font-medium text-white hover:text-gray-500">Disco é cultura</nuxt-link>
+          <nuxt-link to="/contato" class="text-base font-medium text-white hover:text-gray-500">Contato</nuxt-link> 
+          <nuxt-link to="/login" class="text-base font-medium text-white hover:text-gray-500"><Icon-login/></nuxt-link> 
+          <nuxt-link to="/carrinho" class="text-base font-medium text-white hover:text-gray-500"><Icon-shop/></nuxt-link>       
         </nav>
 
       </div>
