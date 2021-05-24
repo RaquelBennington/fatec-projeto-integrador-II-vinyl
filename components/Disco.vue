@@ -9,6 +9,7 @@
             Destaque
           </h1>
         </div>
+        
         <div class="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2 ">
           <div
             class="bg-black rounded m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
