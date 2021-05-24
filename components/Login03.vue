@@ -17,7 +17,7 @@
               <label class="block text-sm text-white" for="nome">Nome</label>
               <input
                 class="w-full px-5 py-1 text-gray-700 bg-gray-300 rounded focus:outline-none focus:bg-white"
-                type="email"
+                type="nome"
                 id="nome"
                 placeholder="Digite seu nome"
                 aria-label="Nome"

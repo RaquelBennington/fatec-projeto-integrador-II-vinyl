@@ -1,6 +1,6 @@
 <template>
   <div class="NuxtLogo" width="20" height="20">
-    <nuxt-link to="/sobre" class="NuxtLogo" width="20" height="20"
+    <nuxt-link to="/" class="NuxtLogo" width="20" height="20"
       ><img src="~/assets/logo_002.png" alt="logtipo"
     /></nuxt-link>
   </div>

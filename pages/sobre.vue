@@ -2,7 +2,7 @@
   <div>
     <Navbar />
     <Carousel />
-    <Sobre-section />
+    <Section-sobre />
     <Footer />
   </div>
 </template>

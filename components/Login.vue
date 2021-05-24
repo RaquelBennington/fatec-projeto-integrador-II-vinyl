@@ -10,7 +10,7 @@
               class="max-w-sm m-4 p-10 bg-white bg-opacity-25 rounded shadow-xl"
             >
             <p class="text-white font-medium text-center text-lg font-bold">
-                Bem-vindo ao Music 
+                Bem-vindo ao VINYL. 
               </p>
 
               <p class="text-white font-medium text-center text-lg font-bold">

@@ -5,7 +5,7 @@
   >
     <div class="container ml-auto mr-auto flex flex-wrap items-start  space-x-16">
       <div class="w-full pl-5 lg:pl-2 mb-4 mt-4">
-        <h1 class="text-3xl lg:text-4xl text-gray-500 font-extrabold py-4">
+        <h1 class="text-center text-3xl lg:text-4xl text-gray-500 font-extrabold pb-8 mr-20">
           Disco é Cultura
         </h1>
       </div>

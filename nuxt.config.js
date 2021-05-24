@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'fatec-projeto-integradorII-nuxt-2021',
+    title: 'VINYL.',
     htmlAttrs: {
       lang: 'en'
     },

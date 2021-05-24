@@ -3,7 +3,7 @@
     <div class="bg-black flex justify-center mx-auto px-4 sm:px-4">
       <div>
         <div
-          class="flex-col items-center space-x-5 text-white m-4 px-4 sm:px-4"
+          class="flex flex-wrap justify-around space-x-5 text-white m-4 px-4 sm:px-4"
         >
           <nuxt-link
             to="/sobre"
@@ -30,7 +30,7 @@
     </div>
     <div class="bg-black flex justify-center mx-auto px-6 sm:px-4">
       <div class="flex justify-center m-6">
-        <nuxt-link to="/index"><Logo /></nuxt-link>
+        <nuxt-link to="/"><Logo /></nuxt-link>
       </div>
     </div>
 

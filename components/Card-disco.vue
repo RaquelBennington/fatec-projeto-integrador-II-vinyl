@@ -5,7 +5,7 @@
   >
     <div class="container ml-auto mr-auto flex flex-wrap items-start">
       <div class="w-full pl-5 lg:pl-2 mb-4 mt-4">
-        <h1 class="text-3xl lg:text-4xl text-gray-700 font-extrabold">
+        <h1  class="text-center text-3xl lg:text-4xl text-gray-500 font-extrabold pb-8 py-10">
           Destaque
         </h1>
       </div>
