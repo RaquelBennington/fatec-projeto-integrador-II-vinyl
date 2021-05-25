@@ -3,15 +3,10 @@
     class="flex items-center w-screen min-h-screen bg-black"
     style="font-family: 'Muli', sans-serif"
   >
-    <div class="container ml-auto mr-auto flex flex-wrap items-start">
-      <div class="w-full pl-5 lg:pl-2 mb-4 mt-4">
-        <h1  class="text-center text-3xl lg:text-4xl text-gray-500 font-extrabold pb-8 py-10">
-          Destaque
-        </h1>
-      </div>
+    <div class="container ml-auto mr-auto flex flex-wrap items-start py-6">
       <div class="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
         <div
-          class="bg-black rounded m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
+          class="bg-black rounded m-h-64 p-2 transform hover:translate-x-1 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
         >
           <figure class="mb-2">
             <img src="~/assets/V002.png" alt="" class="h-64 ml-auto mr-auto" />
@@ -56,7 +51,7 @@
 
       <div class="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
         <div
-          class="bg-black rounded m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
+          class="bg-black rounded m-h-64 p-2 transform hover:translate-x-1 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
         >
           <figure class="mb-2">
             <img src="~/assets/V002.png" alt="" class="h-64 ml-auto mr-auto" />
@@ -69,7 +64,7 @@
                 Chaka Khan
               </h5>
               <p class="text-base text-gray-600 leading-none">
-                What Cha' Gonna Do for Me (1981)
+                What Cha' Gonna Do for Me
               </p>
             </div>
             <div class="flex items-center">
@@ -101,7 +96,7 @@
 
       <div class="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
         <div
-          class="bg-black rounded m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
+          class="bg-black rounded m-h-64 p-2 transform hover:translate-x-1 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
         >
           <figure class="mb-2">
             <img src="~/assets/V002.png" alt="" class="h-64 ml-auto mr-auto" />
@@ -146,7 +141,7 @@
 
       <div class="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
         <div
-          class="bg-black rounded m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
+          class="bg-black rounded m-h-64 p-2 transform hover:translate-x-1 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
         >
           <figure class="mb-2">
             <img src="~/assets/V002.png" alt="" class="h-64 ml-auto mr-auto" />
@@ -191,7 +186,7 @@
 
             <div class="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
         <div
-          class="bg-black rounded m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
+          class="bg-black rounded m-h-64 p-2 transform hover:translate-x-1 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
         >
           <figure class="mb-2">
             <img src="~/assets/V002.png" alt="" class="h-64 ml-auto mr-auto" />
@@ -236,7 +231,7 @@
 
             <div class="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
         <div
-          class="bg-black rounded m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
+          class="bg-black rounded m-h-64 p-2 transform hover:translate-x-1 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
         >
           <figure class="mb-2">
             <img src="~/assets/V002.png" alt="" class="h-64 ml-auto mr-auto" />
@@ -281,7 +276,7 @@
 
             <div class="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
         <div
-          class="bg-black rounded m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
+          class="bg-black rounded m-h-64 p-2 transform hover:translate-x-1 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
         >
           <figure class="mb-2">
             <img src="~/assets/V002.png" alt="" class="h-64 ml-auto mr-auto" />
@@ -326,7 +321,7 @@
 
             <div class="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
         <div
-          class="bg-black rounded m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
+          class="bg-black rounded m-h-64 p-2 transform hover:translate-x-1 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
         >
           <figure class="mb-2">
             <img src="~/assets/V002.png" alt="" class="h-64 ml-auto mr-auto" />
@@ -371,7 +366,7 @@
 
             <div class="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
         <div
-          class="bg-black rounded m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
+          class="bg-black rounded m-h-64 p-2 transform hover:translate-x-1 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
         >
           <figure class="mb-2">
             <img src="~/assets/V002.png" alt="" class="h-64 ml-auto mr-auto" />
@@ -416,7 +411,7 @@
 
             <div class="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
         <div
-          class="bg-black rounded m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
+          class="bg-black rounded m-h-64 p-2 transform hover:translate-x-1 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
         >
           <figure class="mb-2">
             <img src="~/assets/V002.png" alt="" class="h-64 ml-auto mr-auto" />
@@ -461,7 +456,7 @@
 
             <div class="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
         <div
-          class="bg-black rounded m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
+          class="bg-black rounded m-h-64 p-2 transform hover:translate-x-1 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
         >
           <figure class="mb-2">
             <img src="~/assets/V002.png" alt="" class="h-64 ml-auto mr-auto" />
@@ -506,7 +501,7 @@
 
             <div class="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
         <div
-          class="bg-black rounded m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
+          class="bg-black rounded m-h-64 p-2 transform hover:translate-x-1 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
         >
           <figure class="mb-2">
             <img src="~/assets/V002.png" alt="" class="h-64 ml-auto mr-auto" />

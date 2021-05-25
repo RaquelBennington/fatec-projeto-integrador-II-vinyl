@@ -50,7 +50,7 @@
 
 <style>
 .login {
-  background-image: url(~/assets/background_login_02.jpg);
+  background-image: url(~/assets/Login/background_login_01.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }

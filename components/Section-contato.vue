@@ -8,7 +8,7 @@
     >
       <div class="w-full pl-5 lg:pl-2 mb-4 mt-4">
         <h1 class="text-center text-3xl lg:text-4xl text-gray-500 font-extrabold pb-8 mr-20">
-          Fale com nosso
+          Fale conosco
         </h1>
       </div>
 
