@@ -233,7 +233,7 @@
         >
           <figure class="mb-2">
             <img
-              src="~/assets/Deejay/dj-Emii-600.jpg"
+              src="~/assets/Deejay/dj-erick-jay-004.jpg"
               alt=""
               class="h-64 ml-auto mr-auto"
             />
