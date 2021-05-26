@@ -3,7 +3,7 @@
     <Navbar />
     <Carousel />
     <Navbar-categorias />
-    <Card-disco />
+    <Section-card />
     <Footer />
   </div>
 </template>

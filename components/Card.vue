@@ -1,21 +1,18 @@
 <template>
   <div class="w-full md:w-1/2 lg:w-1/4 pl-5 pr-5 mb-5 lg:pl-2 lg:pr-2">
     <div
-      class="bg-black rounded m-h-64 p-2 transform hover:translate-y-2 hover:shadow-xl transition duration-100 border-white border border-t border-b border-r"
+      class="bg-black rounded m-h-64 p-2 transform hover:translate-x-1 hover:shadow-xl transition duration-5 border-white border border-t border-b border-r"
     >
       <figure class="mb-2 py-2">
-        <img
-          src="~/assets/Discos/stevie-wonder-innervisions-1973.jpg"
-          alt=""
-          class="h-64 ml-auto mr-auto"
+        <img :src="photo" :alt="title" class="h-64 ml-auto mr-auto"
         />
       </figure>
       <div
         class="rounded-lg p-4 bg-white flex flex-col border-black border border-t border-b border-r"
       >
         <div>
-          <h5 class="text-black text-2 font-bold leading-none py-2">{{ title }}</h5>
-          <p class="text-base text-gray-600 leading-none">{{ description }}</p>
+          <h5 class="text-black text-2 font-bold leading-none py-2">{{ artist }}</h5>
+          <p class="text-base text-gray-600 leading-none">{{ title }}</p>
         </div>
         <div class="flex items-center">
           <div class="text-gray-600 font-bold">{{ price }}</div>
@@ -56,12 +53,12 @@ export default {
       default: ''
     },
 
-    title: {
+   artist: {
       type: String,
       default: ''
     },
 
-    description: {
+    title: {
       type: String,
       default: ''
     },
