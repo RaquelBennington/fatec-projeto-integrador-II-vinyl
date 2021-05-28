@@ -8,7 +8,7 @@
     >
       <div class="w-full pl-5 lg:pl-2 mb-4 mt-4">
         <h1 class="text-center text-3xl lg:text-4xl text-gray-500 font-extrabold pb-8 mr-20">
-          Fale conosco
+          {{ $t("contact") }}
         </h1>
       </div>
 
@@ -28,7 +28,7 @@
           >
             <div>
               <h5 class="text-black text-2 font-bold leading-none">
-                Nosso endereço:
+                {{ $t("address") }}
               </h5>
               <p class="text-base text-gray-600 leading-none py-2">
                   <a href="http://bit.ly/localizacaovinilclub" target="_blank">Av. Colecionador, 1985 - Vila Soul</a
@@ -55,7 +55,7 @@
           >
             <div>
               <h5 class="text-black text-2 font-bold leading-none">
-                Nosso whatsapp:
+                {{ $t("whatsapp") }}
               </h5>
               <p class="text-base text-gray-600 leading-none py-2">
                 <a href="http://bit.ly/whatsappvinyl" target="_blank">+55 (11) 90000-0000</a>

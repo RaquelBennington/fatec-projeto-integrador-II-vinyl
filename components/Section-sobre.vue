@@ -4,7 +4,7 @@
       <div class="bg-black rounded m-h-54 p-2 border-white py-4">
         <div class="px-6 bg-black">
           <div class="rounded-md p-8 bg-black flex flex-col">
-            <h1 class="text-center text-3xl lg:text-4xl text-gray-500 font-extrabold pb-8 mr-5">Quem somos</h1>
+            <h1 class="text-center text-3xl lg:text-4xl text-gray-500 font-extrabold pb-8 mr-5">{{ $t("who") }}</h1>
             <p class="text-white">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta
               perferendis eius esse ad quo? Placeat explicabo corporis vero!
@@ -26,7 +26,7 @@
               />
               <div class="flex-col py-2">
                 <h2 class="text-white font-bold text-center">Fernando Dias</h2>
-                <p class="text-white font-bold text-center">Proprietário</p>
+                <p class="text-white font-bold text-center">{{ $t("Owner") }}</p>
               </div>
             </div>
 
@@ -40,7 +40,7 @@
               />
               <div class="flex-col py-2">
                 <h2 class="text-white font-bold text-center">Carlos Antonio</h2>
-                <p class="text-white font-bold text-center">Vendedor</p>
+                <p class="text-white font-bold text-center">{{ $t("seller") }}</p>
               </div>
             </div>
 
@@ -54,7 +54,7 @@
               />
               <div class="flex-col py-2">
                 <h2 class="text-white font-bold text-center">João Freitas</h2>
-                <p class="text-white font-bold text-center">Pesquisador</p>
+                <p class="text-white font-bold text-center">{{ $t("Researcher") }}</p>
               </div>
             </div>
           </div>
@@ -66,7 +66,7 @@
       <div class="bg-black rounded m-h-54 p-2 border-white py-4">
         <div class="px-6 bg-black">
           <div class="rounded-md p-8 bg-black flex flex-col">
-            <h1 class="text-center text-3xl lg:text-4xl text-gray-500 font-extrabold pb-8 mr-5">Onde estamos</h1>
+            <h1 class="text-center text-3xl lg:text-4xl text-gray-500 font-extrabold pb-8 mr-5">{{ $t("where") }}</h1>
             <p class="text-white py-8">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta
               perferendis eius esse ad quo? Placeat explicabo corporis vero!

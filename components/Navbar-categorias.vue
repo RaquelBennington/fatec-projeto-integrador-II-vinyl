@@ -6,7 +6,7 @@
       <nuxt-link
         to="/"
         class="text-base font-medium text-white hover:text-gray-500"
-        >Discos</nuxt-link
+        >{{ $t("discs") }}</nuxt-link
       >
       <nuxt-link
         to="/"

@@ -10,7 +10,7 @@
         <h1
           class="text-center text-3xl lg:text-4xl text-gray-500 font-extrabold pb-8 mr-20"
         >
-          Disco é Cultura
+          {{ $t("culture") }}
         </h1>
       </div>
 
@@ -36,9 +36,7 @@
                 DJ Marky
               </h5>
               <p class="text-base text-white leading-none">
-                Marky é um ávido colecionador de discos, produtor
-                internacionalmente reverenciado, dono da gravadora Innerground
-                Records e proprietário da DJ Marky & Friends.
+                {{ $t("marky") }}
               </p>
             </div>
             <div class="flex items-center">
@@ -78,8 +76,7 @@
                 DJ Nuts
               </h5>
               <p class="text-base text-white leading-none">
-                Nuts é uma das maiores referências no quesito DJ do país e um
-                dos principais pesquisadores da música Brasil.
+                {{ $t("nuts") }}
               </p>
             </div>
             <div class="flex items-center">
@@ -119,9 +116,7 @@
                 DJ KlJay
               </h5>
               <p class="text-base text-white leading-none">
-                Kleber Simões conhecido como DJ Kl Jay é um dos
-                pioneiros da Cultura Hip Hop no Brasil e integra o grupo de rap
-                Racionais MC’s.
+                {{ $t("kljay") }}
               </p>
             </div>
             <div class="flex items-center">
@@ -161,9 +156,7 @@
                 DJ Tamenpi
               </h5>
               <p class="text-base text-white leading-none">
-                Tamenpi é um dos grandes nomes na cena groove e hip-hop no
-                Brasil. Fora da noite, Tamenpi é referência como pesquisador
-                musical e jornalista no Só Pedrada Musical.
+                {{ $t("tamenpi") }}
               </p>
             </div>
             <div class="flex items-center">
@@ -205,9 +198,7 @@
                 DJ Erick Jay
               </h5>
               <p class="text-base text-white leading-none">
-                O paulistano Erick Jay é primeiro e único sul-americano a ganhar
-                um título mundial de DJ. Erick representa o Brasil em
-                competições internacionais.
+                {{ $t("erickjay") }}
               </p>
             </div>
             <div class="flex items-center">
@@ -247,9 +238,7 @@
                 DJ Emii
               </h5>
               <p class="text-base text-white leading-none">
-                DJ e compositora profissional, DJ Emii é também a campeã
-                francesa do Red Bull Music 3style 2017 e a primeira mulher a
-                ganhar este título.
+                {{ $t("emii") }}
               </p>
             </div>
             <div class="flex items-center">

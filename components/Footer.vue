@@ -8,22 +8,22 @@
           <nuxt-link
             to="/sobre"
             class="text-base font-medium text-white hover:text-gray-500"
-            >Sobre</nuxt-link
+            >{{ $t("about") }}</nuxt-link
           >
           <nuxt-link
             to="/cultura"
             class="text-base font-medium text-white hover:text-gray-500"
-            >Disco é Cultura</nuxt-link
+            >{{ $t("dculture") }}</nuxt-link
           >
           <nuxt-link
             to="/contato"
             class="text-base font-medium text-white hover:text-gray-500"
-            >Contato</nuxt-link
+            >{{ $t("contact") }}</nuxt-link
           >
           <nuxt-link
             to="/login"
             class="text-base font-medium text-white hover:text-gray-500"
-            >Login</nuxt-link
+            >{{ $t("login") }}</nuxt-link
           >
         </div>
       </div>

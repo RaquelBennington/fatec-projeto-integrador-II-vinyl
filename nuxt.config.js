@@ -43,27 +43,22 @@ export default {
 
   // Modules: https://i18n.nuxtjs.org/options-reference
   i18n: {
-    lazy: true,
-    detectBrowserLanguage: {
-      cookiekey: 'i18n-locale',
-    },
-    strategy: 'no_prefix',
-    defaultLocale: 'en',
-    langDir: 'lang',
+    vueI18nLoader: true,
+    defaultLocale: 'pt-br',
     locales: [
       {
         code: 'en',
         iso: 'en-US',
-        name: 'English',
         file: 'en.js',
       },
       {
         code: 'pt-br',
         iso: 'pt-BR',
-        name: 'Português',
         file: 'pt.js',
       },
-    ]
+    ],
+    lazy: true,
+    langDir: '~/lang/'
   },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
