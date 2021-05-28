@@ -1,11 +1,11 @@
 <template>
-  <section class="px-24 bg-black">
+  <section class="px-24 bg-black flex-col items-center justify-center ">
     <article>
-      <div class="bg-black rounded m-h-54 p-2 border-white py-4">
+      <div class="bg-black rounded m-h-54 p-2 border-white py-4 px-60">
         <div class="px-6 bg-black">
-          <div class="rounded-md p-8 bg-black flex flex-col">
+          <div class="rounded-md p-8 bg-black flex flex-col p-8">
             <h1 class="text-center text-3xl lg:text-4xl text-gray-500 font-extrabold pb-8 mr-5">{{ $t("who") }}</h1>
-            <p class="text-white">
+            <p class="text-white ">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta
               perferendis eius esse ad quo? Placeat explicabo corporis vero!
               Neque, obcaecati eaque doloribus aspernatur sunt pariatur
@@ -15,7 +15,7 @@
               recusandae minus.
             </p>
           </div>
-          <div class="rounded-md p-4 bg-black flex space-x-16">
+          <div class="rounded-md p-4 bg-black space-x-16 flex items-center justify-center">
             <div
               class="rounded-md p-4 bg-black flex flex-col border-white border border-t border-b border-r"
             >
@@ -63,9 +63,9 @@
     </article>
 
     <article>
-      <div class="bg-black rounded m-h-54 p-2 border-white py-4">
-        <div class="px-6 bg-black">
-          <div class="rounded-md p-8 bg-black flex flex-col">
+      <div class="bg-black rounded m-h-54 p-2 border-white">
+        <div class="px-6 bg-black flex-col items-center justify-center">
+          <div class="rounded-md p-8 bg-black flex flex-col  px-60">
             <h1 class="text-center text-3xl lg:text-4xl text-gray-500 font-extrabold pb-8 mr-5">{{ $t("where") }}</h1>
             <p class="text-white py-8">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta
@@ -89,7 +89,7 @@
               <br>São Paulo - Brasil<br>
             </p>
           </div>
-          <div class="rounded-md p-4 bg-black flex space-x-16">
+          <div class="rounded-md p-4 bg-black flex items-center justify-center space-x-16">
             <div
               class="rounded-md p-4 bg-black flex flex-col border-white border border-t border-b border-r"
             >

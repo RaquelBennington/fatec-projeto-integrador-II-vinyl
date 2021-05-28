@@ -1,9 +1,9 @@
 <template>
- <div class="carousel relative shadow-2xl bg-white">
-	<div class="carousel-inner relative overflow-hidden w-full">
+ <div class="carousel relative shadow-2xl bg-white bg-black">
+	<div class="carousel-inner relative overflow-hidden w-full bg-black">
 	  <!--Slide 1-->
 		<input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
-		<div class="carousel-item absolute opacity-0" style=" sm:height:10vh lg:height:30vh;">
+		<div class="carousel-item absolute opacity-0" style=" sm:height:10vh lg:height:30vh; bg-black">
 			<div class="block w-full bg-black text-white text-5xl text-center"><img src="~/assets/Carousel/B01.jpg" /></div>
 		</div>
 		<label for="carousel-3" class="prev control-1 w-10 h-20 ml-2 md:ml-10 absolute cursor-pointer hidden text-4xl md:text-6xl font-bold text-white hover:text-black  bg-none leading-tight text-center z-10 inset-y-0 left-0 my-auto">‹</label>
