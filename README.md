@@ -1,5 +1,7 @@
 # fatec-projeto-integradorII-nuxt-2021
 
+Site [Vinyl Club](https://vinylclub.netlify.app/) 
+
 ## Build Setup
 
 ```bash
